@@ -1,0 +1,32 @@
+	Filename                    Source                  Figure 
+    --------                    -----------             ------ 
+   
+   randomresiduemap1.mat        Randomly Generated      Fig.5 - 1st Raw
+   randomresiduemap2.mat        Randomly Generated      Fig.5 - 2nd Raw
+   randomresiduemap3.mat        Randomly Generated      Fig.5 - 3rd Raw
+                              
+   shear.257x257.surf   		Ghiglia Book [7]  		Fig.6
+   2DRamp.mat   				Reference [15]  		Fig.7
+   noisywrappedpeaks.mat   		Reference [17]  		Fig.8
+   
+   longs.152x458.surf   		Ghiglia Book [7]  		Fig.9
+   isola.157x458.surf   		Ghiglia Book [7]  		Fig.10
+   
+   head.256x256.phase   		Ghiglia Book [7]  		Fig.11 
+   
+   
+[7] D. C. Ghiglia, M, D. Pritt, Two Dimensional
+Phase Unwrapping Theory, Algorithms and
+Software, NewYork, USA, John Wiley, 1998.
+
+[15] R. Marhamati and M.A. Masnadi-Shirazi,
+The principles of proper placement of branch
+cut in phase unwrapping using combined and
+extended methods based on residue searching,
+Signal, Image and Video Processing, Vol. 14,
+Is. 3, pp. 593-600, 2020.
+
+[17] D. Zheng and F. Da, A novel algorithm
+for branch cut phase unwrapping, Optics and
+Lasers in Engineering, vol. 49, no. 5, pp.
+609–617, 2011
