@@ -1,14 +1,14 @@
 If you want to read the paper named
 
-"Phase Unwrapping"
+"Phase unwrapping via hierarchical and balanced residue partitioning"
 
-Link : 
+Link : https://link.springer.com/article/10.1007/s11760-023-02958-5
 
-DOI: 
+DOI: 10.1007/s11760-023-02958-5
 
-Code : 
+Code : https://github.com/emrahonat/HBP
 
-Data :
+Data : https://github.com/emrahonat/HBP
 
 
 * You can read our paper and use the codes in your project/thesis/paper/journal. 
@@ -17,5 +17,5 @@ Data :
 * PLEASE CITE OUR PAPER.
 ========================
 
-Cite : 
+Cite : Deprem, Z., Onat, E. Phase unwrapping via hierarchical and balanced residue partitioning. SIViP (2024). https://doi.org/10.1007/s11760-023-02958-5
 
