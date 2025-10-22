@@ -1,3 +1,15 @@
+%% Phase unwrapping via hierarchical and balanced residue partitioning
+%
+% Please cite the article below
+% Deprem, Z., Onat, E. Phase unwrapping via hierarchical and balanced residue partitioning. Signal, Image and Video Processing, 18, 2895–2902 (2024). https://doi.org/10.1007/s11760-023-02958-5
+%
+%
+% Dr. Zeynel Deprem
+% Dr. Emrah Onat (eonat87@yahoo.com)
+% 
+
+%%
+
 function mask=Local_Branch_Cut(r,win)
 	[M,N]=size(r);mask=zeros(M,N);
 
